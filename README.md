@@ -8,7 +8,9 @@ Little script in python to get balance from izly account
 
 ## Usage
 - Put credentials in a file named "izly_credentials" in this format (without <>) :
-<login here><br>
-<password here><br>
+```
+<login here>
+<password here>
+```
 - Execute in a terminal
 `python izly.py`
